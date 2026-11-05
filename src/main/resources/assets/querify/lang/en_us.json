@@ -1,0 +1,13 @@
+{
+  "itemGroup.querify": "Example Mod Tab",
+  "block.querify.example_block": "Example Block",
+  "item.querify.example_item": "Example Item",
+
+  "querify.configuration.title": "querify Configs",
+  "querify.configuration.section.querify.common.toml": "querify Configs",
+  "querify.configuration.section.querify.common.toml.title": "querify Configs",
+  "querify.configuration.items": "Item List",
+  "querify.configuration.logDirtBlock": "Log Dirt Block",
+  "querify.configuration.magicNumberIntroduction": "Magic Number Text",
+  "querify.configuration.magicNumber": "Magic Number"
+}
